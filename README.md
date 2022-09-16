@@ -4,9 +4,9 @@
 
 >Trilha Explorar
 
-Projeto contruído do evento Next Level Week da Rocketseat.
+Projeto construído no evento Next Level Week da Rocketseat.
 
-[Acesse aqui](https://kelvynphilipe.github.io/NLW-esports/)
+[Acesse aqui !!](https://kelvynphilipe.github.io/NLW-esports/)
 
 # Tecnologias
 
